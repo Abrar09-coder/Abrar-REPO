@@ -2,6 +2,3 @@
 This is my Git Repository.
 <br>
 abrarfile
-<br>
-x
-
